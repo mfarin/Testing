@@ -15,4 +15,5 @@ int main()
     cout << x1;
     cout <<" x2:";
     cout << x2;
+    return 0;
 }
